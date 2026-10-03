@@ -1,0 +1,23 @@
+# 操作系统 / 编辑器
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.swp
+
+# 依赖与构建产物
+node_modules/
+__pycache__/
+*.py[cod]
+dist/
+build/
+*.egg-info/
+
+# 日志与本地配置
+*.log
+.env
+.env.local
+
+# 嘉立创 / EDA 临时文件（按需保留）
+*.tmp
