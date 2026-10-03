@@ -14,6 +14,6 @@
 ## 用法
 
 ```bash
-git clone https://github.com/HYY-hy-blip/ggggg.git
-cd ggggg
+git clone https://github.com/HYY-hy-blip/gitt.git
+cd gitt
 ```
